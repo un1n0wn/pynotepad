@@ -2,6 +2,18 @@
 it a version of notepad coded in python
 
 
-<img src="blob:chrome-untrusted://media-app/a930b811-8af6-48ef-b5fa-05856d84c01c" alt="Screenshot 2020-11-17 at 18.52.34.png"/>
+# libraries used
 
+tkinter
+
+# how to use
+./notepad
+
+# extra
+
+if you want the soure code then message me on my instagram which is https://www.instagram.com/un1n0wn_/
+
+# my bitcoin address
+
+bc1q732dn8hvw4tl2dg2dv2dg9lf7x33l08vhwk2mw
 
